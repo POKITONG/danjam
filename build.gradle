@@ -19,7 +19,7 @@ configurations {
     }
 }
 
-repositcories {
+repositories {
     mavenCentral()
 }
 
